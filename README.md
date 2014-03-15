@@ -1,7 +1,7 @@
 hello-squirrelled
 =================
 
-A simple scala App that uses a gradle and scala test.
+A simple scala application that uses gradle and scala test.
 
 To run the application, do:
 
@@ -11,6 +11,6 @@ To test the application, do:
 
 % gradle test -i
 
-Fork at will
+Fork at will...
 
 
