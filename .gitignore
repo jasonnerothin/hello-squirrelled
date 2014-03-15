@@ -10,6 +10,8 @@ src_managed/
 project/boot/
 project/plugins/project/
 bin/*
+.gradle
+build/
 
 # Scala-IDE specific
 .scala_dependencies
